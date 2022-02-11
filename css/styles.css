@@ -72,13 +72,13 @@ a:hover {
 }
 
 .intro {
-  width: 40%;
+  width: min(500px, 40%);
   margin: auto;
   text-align: justify;
 }
 
 .contact-message {
-  width: 40%;
+  width: min(500px, 40%);
   margin: 40px auto 60px;
   text-align: justify;
 }
