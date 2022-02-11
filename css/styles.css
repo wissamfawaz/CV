@@ -74,11 +74,13 @@ a:hover {
 .intro {
   width: 30%;
   margin: auto;
+  text-align: justify;
 }
 
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+  text-align: justify;
 }
 
 .copyright {
