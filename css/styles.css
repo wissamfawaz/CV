@@ -47,6 +47,10 @@ a:hover {
   color: #eaf6f6;
 }
 
+img {
+  object-fit: cover;
+}
+
 .top-container {
   background-color: #e4f9f5;
   padding: 45px 0;
